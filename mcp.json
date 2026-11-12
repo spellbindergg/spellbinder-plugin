@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "spellbinder": {
+      "type": "http",
+      "url": "https://www.spellbinder.gg/api/mcp"
+    }
+  }
+}
