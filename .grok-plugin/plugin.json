@@ -1,6 +1,6 @@
 {
   "name": "spellbinder",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Magic: The Gathering cards, decks, tournaments and collections for Grok Build via the hosted Spellbinder MCP server. Search cards and sets, research tournament results and decklists, analyze a deck against your collection, compare decks card by card, build and edit your decks, and add cards to your collection or wishlist. Sign in with your Spellbinder account on first connect.",
   "author": {
     "name": "Spellbinder LLC",

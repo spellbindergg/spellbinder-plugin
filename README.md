@@ -18,6 +18,7 @@ Tools that touch your account act only on your own decks, collection and wishlis
 
 | Host                | How                                                                                         |
 | ------------------- | ------------------------------------------------------------------------------------------- |
+| Claude Code         | `/plugin install spellbinder --marketplace ndiego/spellbinder-plugin`                        |
 | Grok Build          | `grok plugin install spellbinder` once listed, or install from this repository's URL        |
 | Grok Bot and Cursor | Find Spellbinder in Connect apps once listed, or ask the agent to add the custom MCP URL     |
 | grok.com            | Connectors > New Connector > Custom, then paste `https://www.spellbinder.gg/api/mcp`        |
@@ -25,12 +26,14 @@ Tools that touch your account act only on your own decks, collection and wishlis
 
 ## Layout
 
+- `.claude-plugin/plugin.json`, `.claude-plugin/marketplace.json` and `.mcp.json`: Claude Code
 - `.grok-plugin/plugin.json` and `.mcp.json`: Grok Build
 - `.cursor-plugin/plugin.json` and `mcp.json`: Grok Bot and Cursor
 
 ## Documentation and support
 
 - Guide: https://www.spellbinder.gg/docs/mcp
+- Privacy: https://www.spellbinder.gg/legal/privacy-policy
 - Support: support@spellbinder.gg
 
 ## License

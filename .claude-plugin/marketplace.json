@@ -1,0 +1,15 @@
+{
+  "name": "spellbinder",
+  "description": "The Spellbinder plugin: Magic: The Gathering cards, decks, tournaments and collections over a hosted MCP server.",
+  "owner": {
+    "name": "Spellbinder LLC",
+    "email": "support@spellbinder.gg"
+  },
+  "plugins": [
+    {
+      "name": "spellbinder",
+      "source": "./",
+      "description": "Magic: The Gathering cards, decks, tournaments and collections via the hosted Spellbinder MCP server."
+    }
+  ]
+}
