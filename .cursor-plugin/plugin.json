@@ -1,7 +1,7 @@
 {
   "name": "spellbinder",
   "displayName": "Spellbinder",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Magic: The Gathering cards, decks, tournaments and collections via the hosted Spellbinder MCP server. Search cards and sets, research tournament results and decklists, analyze a deck against your collection, compare decks card by card, build and edit your decks, and add cards to your collection or wishlist. Sign in with your Spellbinder account on first connect.",
   "author": {
     "name": "Spellbinder LLC",
@@ -10,7 +10,7 @@
   },
   "publisher": "Spellbinder LLC",
   "homepage": "https://www.spellbinder.gg/docs/mcp",
-  "repository": "https://github.com/ndiego/spellbinder-plugin",
+  "repository": "https://github.com/spellbindergg/spellbinder-plugin",
   "license": "MIT",
   "keywords": [
     "spellbinder",
