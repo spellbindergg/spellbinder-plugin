@@ -24,6 +24,15 @@ Tools that touch your account act only on your own decks, collection and wishlis
 | grok.com            | Connectors > New Connector > Custom, then paste `https://www.spellbinder.gg/api/mcp`        |
 | Any other MCP host  | Add `https://www.spellbinder.gg/api/mcp` as a remote Streamable HTTP server                 |
 
+## ChatGPT and Claude
+
+ChatGPT and the Claude apps have their own Spellbinder listings, so you do not need this repository for them.
+
+- ChatGPT: [Spellbinder in the ChatGPT plugin directory](https://chatgpt.com/plugins/plugin_asdk_app_6ac6f954e35c8191a17b12679da2962f)
+- Claude (web, desktop and mobile): [Spellbinder in the Claude directory](https://claude.ai/directory/spellbinder)
+
+This repository is for the hosts that install from a Git repository: Claude Code, Grok Build, Grok Bot and Cursor.
+
 ## Layout
 
 - `.claude-plugin/plugin.json`, `.claude-plugin/marketplace.json` and `.mcp.json`: Claude Code
